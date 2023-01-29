@@ -2,7 +2,7 @@
 
 在 markdown-it 中支持 TEX 数学公式，避免数学公式的某部分被解析为 markdown。
 
-参考 [markdown-it-katex](http://waylonflinn.github.io/markdown-it-katex/) 的代码实现。
+参考 [markdown-it-katex](http://waylonflinn.github.io/markdown-it-katex/) 以及 [markdown-it-mathjax3](https://github.com/tani/markdown-it-mathjax3/blob/master/LICENSE) 的代码实现。
 
 ## 快速开始
 
