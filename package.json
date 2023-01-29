@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "在 markdown-it 中支持 TEX 数学公式，避免数学公式的某部分被解析为 markdown。",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/llingy/markdown-it-tex-equations"
+  },
   "keywords": [
     "markdown",
     "math",
